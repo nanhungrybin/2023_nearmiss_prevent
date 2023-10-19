@@ -17,6 +17,7 @@ Prediction of corporate near misses based on stacking ensemble model and establi
 ## 📁대회 관련 사항📁
 - 공모전 명칭: 제 10회 산업안전보건 논문경진대회
 - 논문주제: 산업안전보건연구원 국가승인 통계인 "근로환경조사" 또는 "산업안전보건 실태조사"를 활용한 산업안전보건 분야 자유주제
+- 논문제출 : 본문, 부록, 참고문헌 포함 최대 30매 이내 작성
 - 공모전 공지사항: https://oshri.kosha.or.kr/oshri/customerInformation/papercontestnotice.do?mode=view&articleNo=438548&article.offset=0&articleLimit=10)
 
 ## 📁역할📁
