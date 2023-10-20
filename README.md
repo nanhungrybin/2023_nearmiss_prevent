@@ -32,5 +32,5 @@ Prediction of corporate near misses based on stacking ensemble model and establi
 
 ## 📁시기📁
 
-- 프로젝트 진행 기간 (2022.5 ~ 2022.6)
+- 프로젝트 진행 기간 (2023.5 ~ 2023.6)
 
